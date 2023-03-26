@@ -1,5 +1,7 @@
-! name: placeholder1
-! description: placeholder
-! public: false
-! author: placeholder
+! name: Тест для диплома
+! description: описание
+! public: true
+! author: вк
 
+$discard,site=bing.com
+$discard,site=google.com
