@@ -1,5 +1,5 @@
-! name: пусто
-! description: пусто
+! name: placeholder
+! description: placeholder
 ! public: false
-! author: пусто
+! author: placeholder
 
