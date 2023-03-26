@@ -3,3 +3,5 @@
 ! public: false
 ! author: placeholder
 
+$discard,site=bing.com
+$discard,site=google.com
