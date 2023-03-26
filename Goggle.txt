@@ -1,7 +1,7 @@
-! name: 2
-! description: 2
+! name: Диплом
+! description: Тест для дипломной работы
 ! public: false
-! author: 2
+! author: 4
 
 $discard,site=bing.com
 $discard,site=google.com
