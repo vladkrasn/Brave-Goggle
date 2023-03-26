@@ -6,7 +6,4 @@
 $boost=3,site=google.com
 $downrank=3,site=bing.com
 $boost=3,site=bravedisc.com
-$discard,site=example.com
-$discard,site=example.com
-$discard,site=example.com
-$discard,site=example.com
+
