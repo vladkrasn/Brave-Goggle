@@ -1,5 +1,5 @@
-! name: Диплом
-! description: Тест для дипломной работы
+! name: пусто
+! description: пусто
 ! public: false
-! author: 4
+! author: пусто
 
