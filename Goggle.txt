@@ -3,6 +3,3 @@
 ! public: false
 ! author: 4
 
-$discard,site=bing.com
-$discard,site=google.com
-$discard,site=yandex.ru
