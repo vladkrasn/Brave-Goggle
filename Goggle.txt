@@ -1,5 +1,5 @@
-! name: Тест
-! description: для диплома
+! name: Тест для ВКР
+! description: Демонстрация
 ! public: true
 ! author: вк
 
