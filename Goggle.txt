@@ -1,7 +1,9 @@
-! name: Тест!
+! name: Тест
 ! description: для диплома
 ! public: true
 ! author: вк
 
 $discard,site=google.com
-$discard,site=bing.com
+$boost=3,site=ssau.ru.com
+$discard,site=example.com
+$downrank=3,site=bing.com
