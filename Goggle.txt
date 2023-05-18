@@ -4,6 +4,6 @@
 ! author: вк
 
 $discard,site=google.com
-$boost=3,site=ssau.ru.com
+$boost=3,site=ssau.ru
 $discard,site=example.com
 $downrank=3,site=bing.com
